@@ -1,0 +1,14 @@
+{
+  "name": "watson",
+  "version": "1.0.0",
+  "description": "A telegram-homework bot for itmo",
+  "main": "main",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Temity (Artem Stolyarov)",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
